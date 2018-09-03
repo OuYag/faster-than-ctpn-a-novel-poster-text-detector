@@ -10,3 +10,6 @@ here is some detected samples.
 	
 The method is much faster than ctpn, and we have cpu edition and gpu edition. 
 mean while, we can detect oriented text. 
+
+we have tested in the icdar15 benchmark dataset, With a single scale, we can achieve
+0.871 fmeans. 
