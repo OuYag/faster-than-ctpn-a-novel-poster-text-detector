@@ -19,3 +19,6 @@ meet the actual need in work. Now I have been modifying the framework, to detect
 The framework is what I persue for so long time, wish me good luck. 
 
 The CVPR2019 paper is submmited. Now our framework can detect large angle long Chinese texts. We upload some new detect demo images. 
+
+our result on icdar15 benchmark:
+
