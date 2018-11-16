@@ -20,3 +20,4 @@ The framework is what I persue for so long time, wish me good luck.
 
 The CVPR2019 paper is submmited, our method named Pixel-Anchor. Now our framework can detect large angle long Chinese texts. We upload some new detect demo images. 
 
+Our method is fast, single shot, and can be really used in practice. 
