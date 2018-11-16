@@ -12,7 +12,7 @@ The method is much faster than ctpn, and we have cpu edition and gpu edition.
 mean while, we can detect oriented text. 
 
 we have tested in the icdar15 benchmark dataset, With a single scale, we can achieve
-0.8768 fmeans. 
+0.8768 fmeans. With multi-scale, we can achieve 89.54 fmeans. 
 
 The opensource text detector like East/Textboxes++/pixel-link/ctpn all have very obvious shortage, which can't
 meet the actual need in work. Now I have been modifying the framework, to detect any size and any orientation text. 
