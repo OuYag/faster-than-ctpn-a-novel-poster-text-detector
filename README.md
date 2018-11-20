@@ -21,3 +21,6 @@ The framework is what I persue for so long time, wish me good luck.
 Now our framework can detect large angle long Chinese texts. We upload some new detect demo images. 
 
 Our method is fast, single shot, and can be really used in practice. 
+
+Our framework named Pixel-Anchor, The arXiv paper:
+https://arxiv.org/abs/1811.07432
