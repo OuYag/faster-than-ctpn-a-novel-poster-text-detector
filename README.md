@@ -24,3 +24,5 @@ Our method is fast, single shot, and can be really used in practice.
 
 Our framework named Pixel-Anchor, The arXiv paper:
 https://arxiv.org/abs/1811.07432
+
+Recently, we develop a text detector for fapiao, we have upload some detect samples. 
