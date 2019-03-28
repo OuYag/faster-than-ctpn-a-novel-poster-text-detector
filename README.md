@@ -27,6 +27,6 @@ https://arxiv.org/abs/1811.07432
 
 Recently, we develop a text detector for fapiao, we have upload some detect samples. 
 
-工作满一年，写了一些总结，https://github.com/Yuanhang8605/text-detector-experience.git
+工作满一年，写了一些总结，https://github.com/Yuanhang8605/pixel-anchor-link-and-text-detector-experience.git
 都是干货，分享一下，
 愿不再有人趟坑，算法保佑大家。
